@@ -1,0 +1,7 @@
+[project]
+name = "python-monitor"
+version = "0.1.0"
+description = "Sysmonitor & orangepi4A "
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
